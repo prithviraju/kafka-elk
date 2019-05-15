@@ -1,6 +1,10 @@
 # kafka-elk-docker-compose
 This repository deploys with *docker-compose* an ELK stack which has kafka cluster buffering the logs collection process. This repository tries to make your life easier while testing a similar architecture. It is highly discouraged to use this repository as a production ready solution of this stack.
 
+## Logical Flow
+
+![reflection](..//kafka-elk.png?raw=true)
+
 ## Setup
 
 1.  [Install Docker engine](https://docs.docker.com/engine/installation/)
