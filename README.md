@@ -3,7 +3,7 @@ This repository deploys with *docker-compose* an ELK stack which has kafka clust
 
 ## Logical Flow
 
-![reflection](../arch-png/kafka-elk.png?raw=true)
+![reflection](https://github.com/prithviraju/kafka-elk/blob/master/arch-png/kafka-elk.png?raw=true)
 
 ## Setup
 
